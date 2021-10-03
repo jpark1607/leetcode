@@ -1,5 +1,3 @@
-#include <vector>
-
 /* Problem 9. Palindrome Number
  * https://leetcode.com/submissions/detail/565005685/
  * 1. 문제:
@@ -8,6 +6,8 @@
  * 2. 아이디어:
  *   vector에 넣고 비교해본다.
  * */
+#include <vector>
+
 class Solution {
 public:
     bool isPalindrome(int x) {
