@@ -6,7 +6,6 @@
  * 2. 아이디어:
  *   그냥 큰 수부터 나누어 본다.
  * */
-
 class Solution {
 public:
     string intToRoman(int num) {
