@@ -6,7 +6,7 @@
  * 2. 아이디어:
  *   두 개 따라가면서 더 작은 쪽을 새로운 list에 insert한다.
  *   한 쪽에 껴넣는 방법도 있을 것 같은데.. 일단 그냥 한다.
- */
+ * */
 /**
  * Definition for singly-linked list.
  * struct ListNode {
