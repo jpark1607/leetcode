@@ -1,5 +1,3 @@
-#include <algorithm>
-#include <vector>
 /* Problem 1. Two Sum
  * https://leetcode.com/submissions/detail/564570016/
  * 1. 문제:
@@ -8,6 +6,8 @@
  * 2. 아이디어:
  *   그냥 찾으면 n의 제곱만큼 돌게 되므로, 정렬해서 값 자체를 찾은 뒤 값을 토대로 원본 vector에서 index를 찾는다.
  * */
+#include <algorithm>
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
