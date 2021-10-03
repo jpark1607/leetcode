@@ -1,4 +1,5 @@
 /* Problem 6. ZigZag Conversion
+ * https://leetcode.com/submissions/detail/565014567/
  * 1. 문제:
  *   글자를 지그재그로 배치한 뒤, row 순서대로 읽은 결과를 return하라.
  *   예를 들면 다음과 같다.
