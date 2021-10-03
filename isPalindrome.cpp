@@ -1,6 +1,7 @@
 #include <vector>
 
 /* Problem 9. Palindrome Number
+ * https://leetcode.com/submissions/detail/565005685/
  * 1. 문제:
  *   주어진 수가 palindrome인지 확인하여라.
  *
