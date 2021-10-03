@@ -1,5 +1,5 @@
 /* Problem 21. Merge Two Sorted Lists
- * [http://submissions/here]
+ * https://leetcode.com/submissions/detail/565128132/
  * 1. 문제:
  *   오름차순으로 정렬된 두 list를 merge하여라.
  *
