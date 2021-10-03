@@ -1,10 +1,3 @@
-#include <cstdlib>
-#ifndef _WIN32
-#include <bits/stdc++.h>
-#else
-#include <limits>
-#endif /* _WIN32 */
-
 /* Problem 8. String to Integer
  * https://leetcode.com/submissions/detail/565002822/
  * 1. 문제:
@@ -19,6 +12,13 @@
  *   2-2. 10배를 했을 경우 INT_MAX와 같을 때, 마지막 자리가 7보다 큰 지
  *   음수는 반대로 한다.
  * */
+#include <cstdlib>
+#ifndef _WIN32
+#include <bits/stdc++.h>
+#else
+#include <limits>
+#endif /* _WIN32 */
+
 class Solution {
 public:
     int myAtoi(string s) {
