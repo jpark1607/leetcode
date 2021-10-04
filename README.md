@@ -20,7 +20,10 @@
 ### 66. Plus One
 ### 67. Add Binary
 ### 70. Climbing Stairs
+### 83. Remove Duplicates from Sorted List
 ### 88. Merge Sorted Array
+### 100. Same Tree
+### 104. Maximum Depth of Binary Tree
 ### 167. 
 ### 709. To Lower Case
 ### 938. 
@@ -31,9 +34,9 @@
 ### 183. Customers Who Never Order
 ### 184. Department Highest Salary
 ### 197. Rising Temperature
-### 595.
-### 620.
-### 627.
+### 595. Big Countries
+### 620. Not Boring Movies
+### 627. Swap Salary
 
 ## On Progress
 ###
