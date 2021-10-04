@@ -1,35 +1,39 @@
 # Leetcode
-## Complete
-### 1. Two Sum : twoSum
-### 2. Add Two Numbers : addTwoNumbers
-### 3. Longest Substring Without Repeating Characters : lengthOfLongestSubstring
-### 6. ZigZag Conversion : convert
-### 8. String to Integer : myAtoi
-### 9. Palindrome Number : isPalindrome
-### 12. Integer to Roman : intToRoman
-### 13. Roman to Integer : romanToInt
-### 14. Longest Common Prefix : longestCommonPrefix
-### 19. Remove Nth Node From End of List : removeNthFromEnd
-### 20. Valid Parentheses : isValid
-### 21. Merge Two Sorted Lists : mergeTwoLists
-### 26. Remove Duplicates from Sorted Array : removeDuplicates
-### 27. Remove Element : removeElement
+## Complete (Algorithm)
+### 1. Two Sum
+### 2. Add Two Numbers
+### 3. Longest Substring Without Repeating Characters
+### 6. ZigZag Conversion
+### 8. String To Integer
+### 9. Palindrome Number
+### 12. Integer To Roman
+### 13. Roman To Integer
+### 14. Longest Common Prefix
+### 19. Remove Nth Node From End Of List
+### 20. Valid Parentheses
+### 21. Merge Two Sorted Lists
+### 26. Remove Duplicates From Sorted Array
+### 27. Remove Element
 ### 28. 
-### 35. Search Insert Position : searchInsert
-### 58. Length of Last Word : lengthOfLastWord
-### 66. Plus One : plusOne
-### 67. Add Binary : addBinary
+### 35. Search Insert Position
+### 58. Length Of Last Word
+### 66. Plus One
+### 67. Add Binary
+### 70. Climbing Stairs
+### 88. Merge Sorted Array
 ### 167. 
-### 175. Combine Two Tables (SQL)
-### 177. Nth Highest Salary (SQL)
-### 181. Employees Earning More Than Their Managers (SQL)
-### 183. Customers Who Never Order (SQL)
-### 184. Department Highest Salary (SQL)
-### 197. Rising Temperature (SQL)
-### 595. 
+### 709. To Lower Case
+### 938. 
+## Complete (SQL)
+### 175. Combine Two Tables
+### 177. Nth Highest Salary
+### 181. Employees Earning More Than Their Managers
+### 183. Customers Who Never Order
+### 184. Department Highest Salary
+### 197. Rising Temperature
+### 595.
 ### 620.
 ### 627.
-### 709. To Lower Case : toLowerCase
-### 938. 
+
 ## On Progress
 ###
