@@ -13,6 +13,7 @@
 ### 19. Remove Nth Node From End Of List
 ### 20. Valid Parentheses
 ### 21. Merge Two Sorted Lists
+### 22. Generate Parentheses
 ### 26. Remove Duplicates From Sorted Array
 ### 27. Remove Element
 ### 28. 
@@ -32,7 +33,11 @@
 ### 141. Linked List Cycle
 ### 144. Binary Tree Preorder Traversal
 ### 145. Binary Tree Postorder Traversal
-### 167. 
+### 147. Insertion Sort List
+### 167.
+### 217. Contains Duplicate
+### 257. Binary Tree Paths
+### 268. Missing Number
 ### 709. To Lower Case
 ### 938. 
 ## Complete (SQL)
