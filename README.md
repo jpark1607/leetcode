@@ -24,6 +24,7 @@
 ### 70. Climbing Stairs
 ### 83. Remove Duplicates from Sorted List
 ### 88. Merge Sorted Array
+### 94. Binary Tree Inorder Traversal
 ### 100. Same Tree
 ### 101. Symmetric Tree
 ### 104. Maximum Depth of Binary Tree
@@ -31,11 +32,14 @@
 ### 118. Pascal's Triangle
 ### 119. Pascal's Triangle II
 ### 141. Linked List Cycle
+### 143. Reorder List
 ### 144. Binary Tree Preorder Traversal
 ### 145. Binary Tree Postorder Traversal
 ### 147. Insertion Sort List
 ### 167.
 ### 217. Contains Duplicate
+### 225. Implement Stack using Queues
+### 232. Implement Queue using Stacks
 ### 257. Binary Tree Paths
 ### 268. Missing Number
 ### 709. To Lower Case
@@ -52,4 +56,4 @@
 ### 627. Swap Salary
 
 ## On Progress
-###
+### 114. Flatten Binary Tree to Linked List
