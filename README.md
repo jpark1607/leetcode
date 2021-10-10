@@ -14,6 +14,7 @@
 ### 20. Valid Parentheses
 ### 21. Merge Two Sorted Lists
 ### 22. Generate Parentheses
+### 24. Swap Nodes in Pairs
 ### 26. Remove Duplicates From Sorted Array
 ### 27. Remove Element
 ### 28. 
@@ -36,10 +37,14 @@
 ### 144. Binary Tree Preorder Traversal
 ### 145. Binary Tree Postorder Traversal
 ### 147. Insertion Sort List
+### 155. Min Stack
 ### 167.
+### 203. Remove Linked List Elements
 ### 217. Contains Duplicate
 ### 225. Implement Stack using Queues
+### 231. Power of Two
 ### 232. Implement Queue using Stacks
+### 237. Delete Node in a Linked List
 ### 257. Binary Tree Paths
 ### 268. Missing Number
 ### 709. To Lower Case
