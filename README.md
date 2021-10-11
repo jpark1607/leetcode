@@ -26,12 +26,14 @@
 ### 83. Remove Duplicates from Sorted List
 ### 88. Merge Sorted Array
 ### 94. Binary Tree Inorder Traversal
+### 96. Unique Binary Search Trees
 ### 100. Same Tree
 ### 101. Symmetric Tree
 ### 104. Maximum Depth of Binary Tree
 ### 112. Path Sum
 ### 118. Pascal's Triangle
 ### 119. Pascal's Triangle II
+### 120. Triangle
 ### 141. Linked List Cycle
 ### 143. Reorder List
 ### 144. Binary Tree Preorder Traversal
@@ -47,8 +49,11 @@
 ### 237. Delete Node in a Linked List
 ### 257. Binary Tree Paths
 ### 268. Missing Number
+### 387. First Unique Character in a String
+### 389. Find the Difference
 ### 709. To Lower Case
 ### 938. 
+### 1929. Concatenation of Array
 ## Complete (SQL)
 ### 175. Combine Two Tables
 ### 177. Nth Highest Salary
