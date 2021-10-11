@@ -43,6 +43,9 @@
 ### 155. Min Stack
 ### 167.
 ### 169. Majority Element
+### 171. Excel Sheet Column Number
+### 190. Reverse Bits
+### 191. Number of 1 Bits
 ### 203. Remove Linked List Elements
 ### 206. Reverse Linked List
 ### 217. Contains Duplicate
