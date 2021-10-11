@@ -42,6 +42,7 @@
 ### 147. Insertion Sort List
 ### 155. Min Stack
 ### 167.
+### 169. Majority Element
 ### 203. Remove Linked List Elements
 ### 206. Reverse Linked List
 ### 217. Contains Duplicate
