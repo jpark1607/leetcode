@@ -20,6 +20,9 @@
 ### 28. 
 ### 35. Search Insert Position
 ### 39. Combination Sum
+### 46. Permutations
+### 48. Rotate Image (leetcode executor performance problem: submit again later)
+### 53. Maximum Subarray
 ### 58. Length Of Last Word
 ### 66. Plus One
 ### 67. Add Binary
@@ -32,6 +35,7 @@
 ### 100. Same Tree
 ### 101. Symmetric Tree
 ### 104. Maximum Depth of Binary Tree
+### 111. Minimum Depth of Binary Tree (leetcode executor performance problem: submit again later)
 ### 112. Path Sum
 ### 118. Pascal's Triangle
 ### 119. Pascal's Triangle II
