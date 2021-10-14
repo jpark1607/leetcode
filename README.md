@@ -59,9 +59,13 @@
 ### 232. Implement Queue using Stacks
 ### 237. Delete Node in a Linked List
 ### 257. Binary Tree Paths
+### 258. Add Digits
 ### 268. Missing Number
+### 349. Intersection of Two Arrays
+### 350. Intersection of Two Arrays II
 ### 387. First Unique Character in a String
 ### 389. Find the Difference
+### 509. Fibonacci Number
 ### 709. To Lower Case
 ### 938. 
 ### 1929. Concatenation of Array
