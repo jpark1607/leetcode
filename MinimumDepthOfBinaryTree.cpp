@@ -1,5 +1,5 @@
 /* Problem 111. Minimum Depth of Binary Tree
- * https://leetcode.com/submissions/detail/570628447/
+ * https://leetcode.com/submissions/detail/571175031/
  * 1. 문제:
  *   주어진 binary tree에서 depth가 최소인 값을 구하여라.
  *
