@@ -1,5 +1,5 @@
 /* Problem 48. Rotate Image
- * https://leetcode.com/submissions/detail/570618195/
+ * https://leetcode.com/submissions/detail/571174590/
  * 1. 문제:
  *   vector를 오른쪽으로 90도 돌린 결과대로 vector 내의 값들을 변경하여라.
  *   (2d vector 추가 선언 금지)
