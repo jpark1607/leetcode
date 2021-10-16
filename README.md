@@ -61,13 +61,17 @@
 ### 257. Binary Tree Paths
 ### 258. Add Digits
 ### 268. Missing Number
+### 344. Reverse String
 ### 349. Intersection of Two Arrays
 ### 350. Intersection of Two Arrays II
 ### 387. First Unique Character in a String
 ### 389. Find the Difference
+### 415. Add Strings
+### 461. Hamming Distance
 ### 509. Fibonacci Number
 ### 709. To Lower Case
 ### 938. 
+### 1302. Deepest Leaves Sum
 ### 1929. Concatenation of Array
 ## Complete (SQL)
 ### 175. Combine Two Tables
