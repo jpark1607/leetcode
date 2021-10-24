@@ -64,6 +64,8 @@
 ### 206. Reverse Linked List
 ### 217. Contains Duplicate
 ### 225. Implement Stack using Queues
+### 226. Invert Binary Tree
+### 230. Kth Smallest Element in a BST
 ### 231. Power of Two
 ### 232. Implement Queue using Stacks
 ### 237. Delete Node in a Linked List
