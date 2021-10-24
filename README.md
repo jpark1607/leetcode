@@ -21,13 +21,17 @@
 ### 27. Remove Element
 ### 28. 
 ### 35. Search Insert Position
+### 38. Count and Say
 ### 39. Combination Sum
 ### 46. Permutations
 ### 48. Rotate Image
 ### 53. Maximum Subarray
+### 54. Spiral Matrix
 ### 58. Length Of Last Word
+### 59. Spiral Matrix II
 ### 62. Unique Paths
 ### 63. Unique Paths II
+### 64. Minimum Path Sum
 ### 66. Plus One
 ### 67. Add Binary
 ### 70. Climbing Stairs
@@ -55,6 +59,7 @@
 ### 171. Excel Sheet Column Number
 ### 190. Reverse Bits
 ### 191. Number of 1 Bits
+### 199. Binary Tree Right Side View
 ### 203. Remove Linked List Elements
 ### 206. Reverse Linked List
 ### 217. Contains Duplicate
