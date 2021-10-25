@@ -71,7 +71,9 @@
 ### 237. Delete Node in a Linked List
 ### 257. Binary Tree Paths
 ### 258. Add Digits
+### 263. Ugly Number
 ### 268. Missing Number
+### 283. Move Zeroes
 ### 344. Reverse String
 ### 349. Intersection of Two Arrays
 ### 350. Intersection of Two Arrays II
