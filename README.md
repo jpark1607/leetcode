@@ -65,15 +65,19 @@
 ### 217. Contains Duplicate
 ### 225. Implement Stack using Queues
 ### 226. Invert Binary Tree
+### 228. Summary Ranges
 ### 230. Kth Smallest Element in a BST
 ### 231. Power of Two
 ### 232. Implement Queue using Stacks
+### 235. Lowest Common Ancestor of a Binary Search Tree
 ### 237. Delete Node in a Linked List
 ### 257. Binary Tree Paths
 ### 258. Add Digits
 ### 263. Ugly Number
 ### 268. Missing Number
 ### 283. Move Zeroes
+### 326. Power of Three
+### 342. Power of Four
 ### 344. Reverse String
 ### 349. Intersection of Two Arrays
 ### 350. Intersection of Two Arrays II
