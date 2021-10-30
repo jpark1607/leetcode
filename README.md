@@ -35,16 +35,20 @@
 ### 66. Plus One
 ### 67. Add Binary
 ### 70. Climbing Stairs
+### 77. Combinations
 ### 83. Remove Duplicates from Sorted List
+### 86. Partition List
 ### 88. Merge Sorted Array
 ### 92. Reverse Linked List II
 ### 94. Binary Tree Inorder Traversal
 ### 96. Unique Binary Search Trees
 ### 100. Same Tree
 ### 101. Symmetric Tree
+### 102. Binary Tree Level Order Traversal
 ### 104. Maximum Depth of Binary Tree
 ### 111. Minimum Depth of Binary Tree
 ### 112. Path Sum
+### 114. Flatten Binary Tree to Linked List
 ### 118. Pascal's Triangle
 ### 119. Pascal's Triangle II
 ### 120. Triangle
