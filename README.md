@@ -52,6 +52,7 @@
 ### 118. Pascal's Triangle
 ### 119. Pascal's Triangle II
 ### 120. Triangle
+### 121. Best Time to Buy and Sell Stock
 ### 141. Linked List Cycle
 ### 143. Reorder List
 ### 144. Binary Tree Preorder Traversal
@@ -90,6 +91,10 @@
 ### 415. Add Strings
 ### 461. Hamming Distance
 ### 509. Fibonacci Number
+### 589. N-ary Tree Preorder Traversal
+### 590. N-ary Tree Postorder Traversal
+### 617. Merge Two Binary Trees
+### 682. Baseball Game
 ### 709. To Lower Case
 ### 938. 
 ### 1302. Deepest Leaves Sum
