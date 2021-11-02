@@ -60,6 +60,7 @@
 ### 147. Insertion Sort List
 ### 155. Min Stack
 ### 167. 
+### 168. Excel Sheet Column Title
 ### 169. Majority Element
 ### 171. Excel Sheet Column Number
 ### 190. Reverse Bits
@@ -74,6 +75,7 @@
 ### 230. Kth Smallest Element in a BST
 ### 231. Power of Two
 ### 232. Implement Queue using Stacks
+### 234. Palindrome Linked List
 ### 235. Lowest Common Ancestor of a Binary Search Tree
 ### 237. Delete Node in a Linked List
 ### 257. Binary Tree Paths
@@ -96,7 +98,9 @@
 ### 617. Merge Two Binary Trees
 ### 682. Baseball Game
 ### 709. To Lower Case
+### 876. Middle of the Linked List
 ### 938. 
+### 1290. Convert Binary Number in a Linked List to Integer
 ### 1302. Deepest Leaves Sum
 ### 1929. Concatenation of Array
 ## Complete (SQL)
