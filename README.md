@@ -100,8 +100,12 @@
 ### 709. To Lower Case
 ### 876. Middle of the Linked List
 ### 938. 
+### 1108. Defanging an IP Address
 ### 1290. Convert Binary Number in a Linked List to Integer
 ### 1302. Deepest Leaves Sum
+### 1480. Running Sum of 1d Array
+### 1672. Richest Customer Wealth
+### 1920. Build Array from Permutation
 ### 1929. Concatenation of Array
 ## Complete (SQL)
 ### 175. Combine Two Tables
