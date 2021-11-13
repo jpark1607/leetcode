@@ -96,13 +96,17 @@
 ### 589. N-ary Tree Preorder Traversal
 ### 590. N-ary Tree Postorder Traversal
 ### 617. Merge Two Binary Trees
+### 654. Maximum Binary Tree
 ### 682. Baseball Game
 ### 709. To Lower Case
 ### 876. Middle of the Linked List
 ### 938. 
+### 1008. Construct Binary Search Tree from Preorder Traversal
+### 1038. Binary Search Tree to Greater Sum Tree
 ### 1108. Defanging an IP Address
 ### 1290. Convert Binary Number in a Linked List to Integer
 ### 1302. Deepest Leaves Sum
+### 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 ### 1480. Running Sum of 1d Array
 ### 1672. Richest Customer Wealth
 ### 1920. Build Array from Permutation
@@ -120,3 +124,4 @@
 
 ## On Progress
 ### 114. Flatten Binary Tree to Linked List
+### 739. Daily Temperatures
