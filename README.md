@@ -27,15 +27,19 @@
 ### 48. Rotate Image
 ### 53. Maximum Subarray
 ### 54. Spiral Matrix
+### 56. Merge Intervals
 ### 58. Length Of Last Word
 ### 59. Spiral Matrix II
+### 61. Rotate List
 ### 62. Unique Paths
 ### 63. Unique Paths II
 ### 64. Minimum Path Sum
 ### 66. Plus One
 ### 67. Add Binary
 ### 70. Climbing Stairs
+### 75. Sort Colors
 ### 77. Combinations
+### 80. Remove Duplicates from Sorted Array II
 ### 83. Remove Duplicates from Sorted List
 ### 86. Partition List
 ### 88. Merge Sorted Array
@@ -48,6 +52,7 @@
 ### 104. Maximum Depth of Binary Tree
 ### 111. Minimum Depth of Binary Tree
 ### 112. Path Sum
+### 113. Path Sum II
 ### 114. Flatten Binary Tree to Linked List
 ### 118. Pascal's Triangle
 ### 119. Pascal's Triangle II
@@ -99,6 +104,7 @@
 ### 654. Maximum Binary Tree
 ### 682. Baseball Game
 ### 709. To Lower Case
+### 739. Daily Temperatures
 ### 876. Middle of the Linked List
 ### 938. 
 ### 1008. Construct Binary Search Tree from Preorder Traversal
@@ -124,4 +130,3 @@
 
 ## On Progress
 ### 114. Flatten Binary Tree to Linked List
-### 739. Daily Temperatures
