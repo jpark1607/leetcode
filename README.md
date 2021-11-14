@@ -58,11 +58,13 @@
 ### 119. Pascal's Triangle II
 ### 120. Triangle
 ### 121. Best Time to Buy and Sell Stock
+### 136. Single Number
 ### 141. Linked List Cycle
 ### 143. Reorder List
 ### 144. Binary Tree Preorder Traversal
 ### 145. Binary Tree Postorder Traversal
 ### 147. Insertion Sort List
+### 151. Reverse Words in a String
 ### 155. Min Stack
 ### 167. 
 ### 168. Excel Sheet Column Title
