@@ -47,10 +47,12 @@
 ### 92. Reverse Linked List II
 ### 94. Binary Tree Inorder Traversal
 ### 96. Unique Binary Search Trees
+### 98. Validate Binary Search Tree
 ### 100. Same Tree
 ### 101. Symmetric Tree
 ### 102. Binary Tree Level Order Traversal
 ### 104. Maximum Depth of Binary Tree
+### 110. Balanced Binary Tree
 ### 111. Minimum Depth of Binary Tree
 ### 112. Path Sum
 ### 113. Path Sum II
@@ -59,6 +61,7 @@
 ### 119. Pascal's Triangle II
 ### 120. Triangle
 ### 121. Best Time to Buy and Sell Stock
+### 129. Sum Root to Leaf Numbers
 ### 136. Single Number
 ### 141. Linked List Cycle
 ### 143. Reorder List
@@ -91,6 +94,7 @@
 ### 263. Ugly Number
 ### 268. Missing Number
 ### 283. Move Zeroes
+### 303. Range Sum Query - Immutable
 ### 326. Power of Three
 ### 328. Odd Even Linked List
 ### 342. Power of Four
@@ -109,6 +113,7 @@
 ### 654. Maximum Binary Tree
 ### 682. Baseball Game
 ### 709. To Lower Case
+### 724. Find Pivot Index
 ### 739. Daily Temperatures
 ### 876. Middle of the Linked List
 ### 938. 
