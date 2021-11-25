@@ -9,14 +9,14 @@
 class Solution {
 public:
     int getFiboNum(int n, vector<int> &memo) {
-        if (memo[n] == 0)
+        if (memo[n] == -1)
             memo[n] = getFiboNum(n - 1, memo) + getFiboNum(n - 2, memo);
 
         return memo[n];
     }
 
     int fib(int n) {
-        vector<int> memo(n + 1, 0);
+        vector<int> memo(n + 1, -1);
 
         if (n == 0)
             return 0;
