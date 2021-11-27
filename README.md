@@ -74,6 +74,7 @@
 ### 168. Excel Sheet Column Title
 ### 169. Majority Element
 ### 171. Excel Sheet Column Number
+### 173. Binary Search Tree Iterator
 ### 190. Reverse Bits
 ### 191. Number of 1 Bits
 ### 199. Binary Tree Right Side View
@@ -116,14 +117,18 @@
 ### 724. Find Pivot Index
 ### 739. Daily Temperatures
 ### 876. Middle of the Linked List
+### 897. Increasing Order Search Tree
 ### 938. 
 ### 1008. Construct Binary Search Tree from Preorder Traversal
+### 1021. Remove Outermost Parentheses
 ### 1038. Binary Search Tree to Greater Sum Tree
+### 1047. Remove All Adjacent Duplicates In String
 ### 1108. Defanging an IP Address
 ### 1137. N-th Tribonacci Number
 ### 1290. Convert Binary Number in a Linked List to Integer
 ### 1302. Deepest Leaves Sum
 ### 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+### 1441. Build an Array With Stack Operations
 ### 1480. Running Sum of 1d Array
 ### 1672. Richest Customer Wealth
 ### 1721. Swapping Nodes in a Linked List
