@@ -11,6 +11,7 @@
 ### 12. Integer To Roman
 ### 13. Roman To Integer
 ### 14. Longest Common Prefix
+### 15. 3Sum
 ### 17. Letter Combinations of a Phone Number
 ### 19. Remove Nth Node From End Of List
 ### 20. Valid Parentheses
@@ -23,10 +24,12 @@
 ### 35. Search Insert Position
 ### 38. Count and Say
 ### 39. Combination Sum
+### 45. Jump Game II
 ### 46. Permutations
 ### 48. Rotate Image
 ### 53. Maximum Subarray
 ### 54. Spiral Matrix
+### 55. Jump Game
 ### 56. Merge Intervals
 ### 58. Length Of Last Word
 ### 59. Spiral Matrix II
@@ -80,6 +83,7 @@
 ### 199. Binary Tree Right Side View
 ### 203. Remove Linked List Elements
 ### 206. Reverse Linked List
+### 215. Kth Largest Element in an Array
 ### 217. Contains Duplicate
 ### 225. Implement Stack using Queues
 ### 226. Invert Binary Tree
@@ -90,6 +94,7 @@
 ### 234. Palindrome Linked List
 ### 235. Lowest Common Ancestor of a Binary Search Tree
 ### 237. Delete Node in a Linked List
+### 242. Valid Anagram
 ### 257. Binary Tree Paths
 ### 258. Add Digits
 ### 263. Ugly Number
@@ -104,8 +109,10 @@
 ### 350. Intersection of Two Arrays II
 ### 387. First Unique Character in a String
 ### 389. Find the Difference
+### 392. Is Subsequence
 ### 415. Add Strings
 ### 445. Add Two Numbers II
+### 451. Sort Characters By Frequency
 ### 461. Hamming Distance
 ### 509. Fibonacci Number
 ### 589. N-ary Tree Preorder Traversal
