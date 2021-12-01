@@ -109,6 +109,7 @@
 ### 344. Reverse String
 ### 349. Intersection of Two Arrays
 ### 350. Intersection of Two Arrays II
+### 383. Ransom Note
 ### 387. First Unique Character in a String
 ### 389. Find the Difference
 ### 392. Is Subsequence
