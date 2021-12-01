@@ -113,7 +113,13 @@
 ### 387. First Unique Character in a String
 ### 389. Find the Difference
 ### 392. Is Subsequence
+### 404. Sum of Left Leaves
+### 405. Convert a Number to Hexadecimal
+### 412. Fizz Buzz
+### 414. Third Maximum Number
 ### 415. Add Strings
+### 429. N-ary Tree Level Order Traversal
+### 430. Flatten a Multilevel Doubly Linked List
 ### 445. Add Two Numbers II
 ### 448. Find All Numbers Disappeared in an Array
 ### 451. Sort Characters By Frequency
@@ -157,5 +163,6 @@
 ### 620. Not Boring Movies
 ### 627. Swap Salary
 
-## On Progress
+## To Do
 ### 114. Flatten Binary Tree to Linked List
+### 427. Construct Quad Tree
